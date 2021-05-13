@@ -20,4 +20,5 @@ after_success:
   - docker push andreyguevara/multi-client
   - docker push andreyguevara/multi-nginx
   - docker push andreyguevara/multi-server
-  - docker push andreyguevara/multi-worker
+  - docker push andreyguevara/multi-worker  
+  #
